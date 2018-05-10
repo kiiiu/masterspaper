@@ -218,3 +218,5 @@ TSWLatexianTemp*
 
 # expex forward references with \gathertags
 *-tags.tex
+TeXpaper.pdf
+TeXpaper.minted*
